@@ -19,5 +19,5 @@ print("The temperature today is: {:.3f} degrees Celsius".format(temperature))
 
 # Common Functions
 userAge = int(input("Enter your age: "))
-userAge += 22
+userAge += 23
 print("Now showing the shop items filtered by age:", userAge)
